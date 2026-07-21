@@ -1,0 +1,5 @@
+﻿# Keep release zip files tracked intentionally.
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
